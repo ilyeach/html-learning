@@ -22,7 +22,7 @@
                                         <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" >Category</a>
                                           <div class="dropdown-menu">
                                               <a href="dog.php" class="dropdown-item">Dog</a>
-                                                  
+                                                  <a href="cat.php" class="dropdown-item">Cat</a>
                          </div>
                     </div>
 					
