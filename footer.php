@@ -27,8 +27,6 @@
         </ul>
 		</div>
 
-      <!--Grid column-->
-
 
      
       <!--Grid column-->
